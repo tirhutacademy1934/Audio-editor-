@@ -1,0 +1,6 @@
+{
+  "name": "Audio Studio",
+  "description": "Professional web audios io editor featuring multi-track timeline, interactive waveforms, real-time effects, DSP editing tools, and high-quality audio export.",
+  "requestFramePermissions":è [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
